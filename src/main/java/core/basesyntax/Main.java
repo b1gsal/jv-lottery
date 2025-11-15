@@ -2,6 +2,7 @@ package core.basesyntax;
 
 public class Main {
     static final int NUMBER_OF_BALL = 3;
+
     public static void main(String[] args) {
         Lottery lottery = new Lottery();
         Ball[] balls = new Ball[NUMBER_OF_BALL];
